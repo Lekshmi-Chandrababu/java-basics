@@ -1,12 +1,16 @@
-# Java Basics ☕
+# ☕ Java Basics to Advanced
 
-This repository contains simple Java programs written to understand core programming concepts.
+This repository contains Java programs starting from fundamentals to advanced concepts.
 
 ## Topics Covered
-- Basic Syntax
-- Conditional Statements
-- Loops
-- Simple Classes
+- Core Java basics
+- Control statements
+- Arrays and Strings
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Collections Framework
+- File Handling
+- Multithreading
+- JDBC
 
-## Purpose
-To build strong fundamentals in Java and object-oriented programming.
+📌 Created for learning, practice, and interview preparation.
